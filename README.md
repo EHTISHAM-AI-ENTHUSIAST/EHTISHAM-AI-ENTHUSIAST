@@ -5,8 +5,8 @@
 ### Senior AI Software Engineer | Full-Stack Developer | Automation Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/EHTISHAM-AI-ENTHUSIAST?label=Follow&style=social)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your-profile)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EHTISHAM-AI-ENTHUSIAST)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
 
 **🚀 I deliver high-quality software at 3x the speed using AI-agent orchestration**
 
@@ -315,8 +315,8 @@ I'm constantly working on new projects. Star my repos to stay updated!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingehtsham0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehtisham-ashraf)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~your-profile)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelancer.com/u/EHTISHAM-AI-ENTHUSIAST)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
 
 **📍 Pakistan (UTC+5) | 💬 English (Fluent) & Urdu (Native)**
