@@ -5,8 +5,8 @@
 ### Senior AI Software Engineer | Full-Stack Developer | Automation Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/EHTISHAM-AI-ENTHUSIAST?label=Follow&style=social)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f3bd9bf5ebfb3d33)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EHTISHAMAI)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your-profile)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EHTISHAM-AI-ENTHUSIAST)
 
 **🚀 I deliver high-quality software at 3x the speed using AI-agent orchestration**
 
@@ -93,7 +93,7 @@ I don't just write code—I visualize the entire product lifecycle, building sol
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI-Powered Lead Scraper
+### 🤖 [AI-Powered Lead Scraper](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
 **Smart Data Engineering Solution**
 
 Automated lead generation tool that extracts data from Google Maps, LinkedIn & eCommerce sites.
@@ -106,10 +106,12 @@ Automated lead generation tool that extracts data from Google Maps, LinkedIn & e
 - Export to Excel/CSV
 - Beautiful dashboard UI
 
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
+
 </td>
 <td width="33%" valign="top">
 
-### 🚀 SaaS Landing Page
+### 🚀 [SaaS Landing Page](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
 **Modern Front-End Showcase**
 
 Pixel-perfect, responsive landing page with 100/100 PageSpeed score.
@@ -122,10 +124,12 @@ Pixel-perfect, responsive landing page with 100/100 PageSpeed score.
 - Mobile-first responsive
 - Glassmorphism UI design
 
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
+
 </td>
 <td width="33%" valign="top">
 
-### 📊 E-commerce REST API
+### 📊 [E-commerce REST API](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
 **Scalable Back-End Architecture**
 
 Production-ready API with authentication, CRUD operations & Swagger docs.
@@ -138,12 +142,14 @@ Production-ready API with authentication, CRUD operations & Swagger docs.
 - Search & filter endpoints
 - Auto-generated Swagger UI
 
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
+
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-### 📄 Document Vision AI
+### 📄 [Document Vision AI](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
 **Intelligent Data Extraction**
 
 AI-powered tool that extracts data from invoices & salary slips using Vision AI.
@@ -156,10 +162,12 @@ AI-powered tool that extracts data from invoices & salary slips using Vision AI.
 - Auto-export to Excel
 - High accuracy extraction
 
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
+
 </td>
 <td width="33%" valign="top">
 
-### ✅ Task Tracker MVP
+### ✅ [Task Tracker MVP](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
 **Rapid Full-Stack Development**
 
 Complete task management app built in record time using AI-assisted development.
@@ -171,6 +179,8 @@ Complete task management app built in record time using AI-assisted development.
 - User authentication
 - Priority & due dates
 - Clean, modern UI
+
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
 
 </td>
 <td width="33%" valign="top">
@@ -252,8 +262,9 @@ Automated workflow that extracts invoice data and updates Google Sheets automati
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingehtsham0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehtisham-ashraf)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~01f3bd9bf5ebfb3d33)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelancer.com/u/EHTISHAMAI)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~your-profile)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelancer.com/u/EHTISHAM-AI-ENTHUSIAST)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
 
 **📍 Pakistan (UTC+5) | 💬 English (Fluent) & Urdu (Native)**
 
