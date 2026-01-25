@@ -185,6 +185,44 @@ Complete task management app built in record time using AI-assisted development.
 </td>
 <td width="33%" valign="top">
 
+### 🔗 [LinkedIn Scraper Bot](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
+**Production-Ready Automation**
+
+LinkedIn profile scraper with GitHub Actions, anti-detection features & Docker support.
+
+**Tech:** Python, Selenium, GitHub Actions
+
+**Features:**
+- Anti-detection stealth mode
+- Docker containerized
+- GitHub Actions scheduled
+- Professional documentation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📚 [Mastering Python](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
+**Comprehensive Learning Resource**
+
+Complete Python library covering 76+ topics from basics to advanced OOP, concurrency & automation.
+
+**Tech:** Python, OOP, Data Structures
+
+**Features:**
+- 76+ Python topics covered
+- Basic to Advanced levels
+- OOP & Design Patterns
+- Concurrency & Threading
+
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
+
+</td>
+<td width="33%" valign="top">
+
 ### ⚙️ PDF-to-Sheets Automation
 **AI Workflow Automation**
 
@@ -197,6 +235,22 @@ Automated workflow that extracts invoice data and updates Google Sheets automati
 - Google Sheets integration
 - Scheduled execution
 - Error handling & logging
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 More Projects Coming Soon...
+**Always Building**
+
+I'm constantly working on new projects. Star my repos to stay updated!
+
+**Areas:**
+- 🤖 AI/ML Applications
+- 🌐 Full-Stack Web Apps
+- ⚡ Automation Tools
+- 📊 Data Engineering
+
+[![View All](https://img.shields.io/badge/View_All_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST?tab=repositories)
 
 </td>
 </tr>
