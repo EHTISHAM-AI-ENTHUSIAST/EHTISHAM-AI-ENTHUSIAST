@@ -4,15 +4,32 @@
 
 ### Senior AI Software Engineer | Full-Stack Developer | Automation Specialist
 
-[![GitHub followers](https://img.shields.io/github/followers/EHTISHAM-AI-ENTHUSIAST?label=Follow&style=social)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
-
 **🚀 I deliver high-quality software at 3x the speed using AI-agent orchestration**
 
 *Techno-Creative Developer bridging high-end design with complex software architecture*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Expert;Full-Stack+Developer+(React%2C+Next.js%2C+FastAPI);Web+Scraping+%26+Automation+Specialist;50%2B+Projects+Delivered+Successfully)](https://git.io/typing-svg)
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdbaZ00)
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+[![Lead Scraper Pro](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
+[![Ecommerce FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
+
+[![SaaS Starter Landing](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
+[![DocVision AI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
+
+[![TaskFlow App](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
+[![LinkedIn Scraper Bot](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
 
 </div>
 
@@ -296,28 +313,16 @@ I'm constantly working on new projects. Star my repos to stay updated!
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EHTISHAM-AI-ENTHUSIAST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EHTISHAM-AI-ENTHUSIAST&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHTISHAM-AI-ENTHUSIAST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Build Something Great!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingehtsham0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehtisham-ashraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
+
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdbaZ00)
 
 **📍 Pakistan (UTC+5) | 💬 English (Fluent) & Urdu (Native)**
 
