@@ -262,11 +262,11 @@ I'm constantly working on new projects. Star my repos to stay updated!
 
 <div align="center">
 
-| Certificate | Provider | Year |
-|-------------|----------|------|
-| 🏅 **GitHub Foundations** | GitHub | 2024 |
-| 🐍 **Python (OOP) Specialty** | Python Institute | 2023 |
-| 🎓 **Certified Associate in Python** | Python Institute | 2023 |
+| Certificate | Provider |
+|-------------|----------|
+| 🏅 **GitHub Foundations** | GitHub |
+| 🐍 **Python (OOP) Specialty** | Python Institute |
+| 🎓 **Certified Associate in Python** | Python Institute |
 
 </div>
 
@@ -276,13 +276,13 @@ I'm constantly working on new projects. Star my repos to stay updated!
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  🚀 Senior Automation Engineer (Remote)           Jan 2022 - Present        │
+│  🚀 Senior Automation Engineer (Remote)                                     │
 │     └─ 50+ projects delivered | Python, Web Scraping, Excel Automation      │
 │                                                                             │
-│  💻 Software Engineer | Tech Solutions            Jan 2023 - Jun 2025       │
+│  💻 Software Engineer | Tech Solutions                                      │
 │     └─ Full-stack development | React, Node.js, API Development             │
 │                                                                             │
-│  🌐 Junior Web Developer | Tech Solutions         Jun 2020 - Dec 2021       │
+│  🌐 Junior Web Developer | Tech Solutions                                   │
 │     └─ Frontend development | HTML, CSS, JavaScript, Bug fixes              │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -292,8 +292,7 @@ I'm constantly working on new projects. Star my repos to stay updated!
 ## 🎓 Education
 
 **Virtual University of Pakistan** 🇵🇰  
-*Bachelor's Degree in Software Engineering*  
-📅 2022 - 2026
+*Bachelor's Degree in Software Engineering*
 
 ---
 
