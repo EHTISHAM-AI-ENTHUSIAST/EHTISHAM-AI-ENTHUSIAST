@@ -10,27 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Expert;Full-Stack+Developer+(React%2C+Next.js%2C+FastAPI);Web+Scraping+%26+Automation+Specialist;50%2B+Projects+Delivered+Successfully)](https://git.io/typing-svg)
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c?mp_source=share)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/EhtishamProAI?frm=EhtishamProAI&sb=t)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdbaZ00)
-
-</div>
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-[![Lead Scraper Pro](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
-[![Ecommerce FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
-
-[![SaaS Starter Landing](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
-[![DocVision AI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
-
-[![TaskFlow App](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
-[![LinkedIn Scraper Bot](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
-
 </div>
 
 ---
@@ -66,212 +45,43 @@ I don't just write code—I visualize the entire product lifecycle, building sol
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-
-### 🌐 Full-Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Data & Databases
+![OpenAI](https://img.shields.io/badge/OpenAI/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### ⚡ Automation & Scraping
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-
-### 🎨 Design & CMS
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Featured Portfolio Projects
+## 🏆 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### 🤖 [AI-Powered Lead Scraper](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
-**Smart Data Engineering Solution**
+[![Lead Scraper Pro](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
+[![Ecommerce FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
 
-Automated lead generation tool that extracts data from Google Maps, LinkedIn & eCommerce sites.
+[![SaaS Starter Landing](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
+[![DocVision AI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
 
-**Tech:** Python, Selenium, Streamlit
+[![TaskFlow App](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
+[![LinkedIn Scraper Bot](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
 
-**Features:**
-- Real-time data extraction
-- Anti-detection stealth mode
-- Export to Excel/CSV
-- Beautiful dashboard UI
+[![Mastering Python](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Mastering-Python&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 [SaaS Landing Page](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
-**Modern Front-End Showcase**
-
-Pixel-perfect, responsive landing page with 100/100 PageSpeed score.
-
-**Tech:** React, Tailwind, Framer Motion
-
-**Features:**
-- Hero section with animations
-- Dark/Light mode toggle
-- Mobile-first responsive
-- Glassmorphism UI design
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 [E-commerce REST API](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
-**Scalable Back-End Architecture**
-
-Production-ready API with authentication, CRUD operations & Swagger docs.
-
-**Tech:** FastAPI, PostgreSQL, JWT
-
-**Features:**
-- Full CRUD for products
-- JWT authentication system
-- Search & filter endpoints
-- Auto-generated Swagger UI
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 📄 [Document Vision AI](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
-**Intelligent Data Extraction**
-
-AI-powered tool that extracts data from invoices & salary slips using Vision AI.
-
-**Tech:** Python, OpenAI Vision, Pandas
-
-**Features:**
-- Image to structured data
-- Multi-format support (PDF/Image)
-- Auto-export to Excel
-- High accuracy extraction
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
-
-</td>
-<td width="33%" valign="top">
-
-### ✅ [Task Tracker MVP](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
-**Rapid Full-Stack Development**
-
-Complete task management app built in record time using AI-assisted development.
-
-**Tech:** React, FastAPI, SQLite
-
-**Features:**
-- Real-time task updates
-- User authentication
-- Priority & due dates
-- Clean, modern UI
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔗 [LinkedIn Scraper Bot](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
-**Production-Ready Automation**
-
-LinkedIn profile scraper with GitHub Actions, anti-detection features & Docker support.
-
-**Tech:** Python, Selenium, GitHub Actions
-
-**Features:**
-- Anti-detection stealth mode
-- Docker containerized
-- GitHub Actions scheduled
-- Professional documentation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 📚 [Mastering Python](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
-**Comprehensive Learning Resource**
-
-Complete Python library covering 76+ topics from basics to advanced OOP, concurrency & automation.
-
-**Tech:** Python, OOP, Data Structures
-
-**Features:**
-- 76+ Python topics covered
-- Basic to Advanced levels
-- OOP & Design Patterns
-- Concurrency & Threading
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ PDF-to-Sheets Automation
-**AI Workflow Automation**
-
-Automated workflow that extracts invoice data and updates Google Sheets automatically.
-
-**Tech:** Python, Google APIs, OpenAI
-
-**Features:**
-- PDF parsing automation
-- Google Sheets integration
-- Scheduled execution
-- Error handling & logging
-
-</td>
-<td width="33%" valign="top">
-
-### 🎯 More Projects Coming Soon...
-**Always Building**
-
-I'm constantly working on new projects. Star my repos to stay updated!
-
-**Areas:**
-- 🤖 AI/ML Applications
-- 🌐 Full-Stack Web Apps
-- ⚡ Automation Tools
-- 📊 Data Engineering
-
-[![View All](https://img.shields.io/badge/View_All_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST?tab=repositories)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -313,7 +123,7 @@ I'm constantly working on new projects. Star my repos to stay updated!
 
 ---
 
-## 🤝 Let's Connect & Build Something Great!
+## 🤝 Let's Connect & Work Together!
 
 <div align="center">
 
