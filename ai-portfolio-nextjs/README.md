@@ -2,8 +2,6 @@
 
 A stunning, responsive portfolio website built with Next.js 14, featuring beautiful animations with Framer Motion, and a sleek dark theme with glassmorphism design.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/1a1a2e/00d9ff?text=Portfolio+Website)
-
 ## Features
 
 - **Smooth Animations** - Framer Motion powered transitions

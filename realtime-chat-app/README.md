@@ -2,8 +2,6 @@
 
 A full-featured real-time chat application built with Next.js 14, Socket.IO, and a modern UI. Features include multiple chat rooms, typing indicators, online user lists, and message persistence.
 
-![Chat App Preview](https://via.placeholder.com/1200x630/1a1a2e/00d9ff?text=Real-Time+Chat+App)
-
 ## Features
 
 - **Real-Time Messaging** - Instant message delivery with Socket.IO

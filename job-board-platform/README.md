@@ -2,8 +2,6 @@
 
 A comprehensive job board platform with an admin dashboard, built with Next.js 14, Prisma, and NextAuth.js. Features job posting, application management, analytics, and role-based access control.
 
-![Job Board Preview](https://via.placeholder.com/1200x630/1a1a2e/00d9ff?text=Job+Board+Platform)
-
 ## Features
 
 ### For Job Seekers

@@ -60,11 +60,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/1a1a2e/00d9ff?text=Lead+Scraper+Dashboard)
-
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes only. Always respect website terms of service and rate limits. Use responsibly.

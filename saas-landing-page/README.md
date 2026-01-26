@@ -2,8 +2,6 @@
 
 A pixel-perfect, responsive landing page built with React and Tailwind CSS. Features smooth animations, dark/light mode toggle, and achieves 100/100 PageSpeed score.
 
-![Preview](https://via.placeholder.com/800x400/1a1a2e/00d9ff?text=SaaS+Landing+Page+Preview)
-
 ## ✨ Features
 
 - **Responsive Design** - Looks great on all devices (mobile, tablet, desktop)
@@ -60,14 +58,6 @@ npm run build
 # Preview production build
 npm run preview
 ```
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop](https://via.placeholder.com/600x300/1a1a2e/00d9ff?text=Desktop+View)
-
-### Mobile View
-![Mobile](https://via.placeholder.com/300x500/1a1a2e/00d9ff?text=Mobile+View)
 
 ## 🎨 Customization
 

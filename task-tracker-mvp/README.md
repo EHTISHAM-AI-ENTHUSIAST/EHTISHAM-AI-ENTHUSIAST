@@ -88,11 +88,6 @@ npm run dev
 
 Open http://localhost:3000 in your browser.
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/1a1a2e/00d9ff?text=Task+Dashboard)
-
 ## 👨‍💻 Author
 
 **Ehtisham Ashraf**  
