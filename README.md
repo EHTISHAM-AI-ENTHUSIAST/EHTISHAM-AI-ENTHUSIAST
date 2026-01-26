@@ -197,19 +197,6 @@ Full-stack task management with **Kanban board**, drag-and-drop, team collaborat
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EHTISHAM-AI-ENTHUSIAST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EHTISHAM-AI-ENTHUSIAST&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHTISHAM-AI-ENTHUSIAST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
