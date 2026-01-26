@@ -217,10 +217,8 @@ Full-stack task management with **Kanban board**, drag-and-drop, team collaborat
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingehtsham0@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingehtisham0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
-[![Upwork](https://img.shields.io/badge/💚_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01955caf7391d3270c)
-[![Fiverr](https://img.shields.io/badge/🟢_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdbaZ00)
 
 <br/>
 
