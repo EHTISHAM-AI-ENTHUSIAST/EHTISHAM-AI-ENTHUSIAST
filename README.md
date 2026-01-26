@@ -68,20 +68,15 @@ I don't just write code—I visualize the entire product lifecycle, building sol
 
 ## 🏆 Featured Projects
 
-<div align="center">
+This repository showcases my expertise through several real-world projects, all hosted here:
 
-[![Lead Scraper Pro](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
-[![Ecommerce FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
-
-[![SaaS Starter Landing](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
-[![DocVision AI](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
-
-[![TaskFlow App](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
-[![LinkedIn Scraper Bot](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
-
-[![Mastering Python](https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Mastering-Python&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/EHTISHAM-AI-ENTHUSIAST/Mastering-Python)
-
-</div>
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**Lead Scraper Dashboard**](./lead-scraper-dashboard) | A powerful Google Maps scraper with anti-detection stealth mode (`undetected-chromedriver`), real-time data visualization, and email extraction. | **Python, Selenium, Streamlit, Pandas** |
+| [**SaaS Landing Page**](./saas-landing-page) | A high-conversion SaaS landing page featuring modern UI/UX, responsive design, and smooth animations. | **React, Vite, Tailwind CSS** |
+| [**Task Tracker App**](./task-tracker-mvp) | Full-stack task management application with JWT authentication, Kanban board, and team collaboration features. | **MERN Stack (MongoDB, Express, React, Node)** |
+| [**E-commerce API**](./ecommerce-api) | Robust REST API for an online store handling products, orders, cart management, and user authentication. | **Python, FastAPI, Docker, PostgreSQL** |
+| [**Document Vision AI**](./document-vision-ai) | AI-powered document analysis tool that extracts and structures text from images and PDF documents using OCR. | **Python, PyTorch, Azure Vision AI** |
 
 ---
 
