@@ -4,7 +4,6 @@ import { Skills } from '@/components/sections/Skills'
 import { Projects } from '@/components/sections/Projects'
 import { Experience } from '@/components/sections/Experience'
 import { Contact } from '@/components/sections/Contact'
-import { AIChatbot } from '@/components/ai/AIChatbot'
 
 export default function Home() {
   return (
@@ -15,7 +14,6 @@ export default function Home() {
       <Projects />
       <Experience />
       <Contact />
-      <AIChatbot />
     </>
   )
 }
