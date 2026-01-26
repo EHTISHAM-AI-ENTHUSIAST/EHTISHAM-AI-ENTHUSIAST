@@ -1,0 +1,52 @@
+﻿{
+  "name": "job-board-platform",
+  "version": "1.0.0",
+  "description": "Full-stack job board with admin dashboard, built with Next.js 14 and Prisma",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:push": "prisma db push",
+    "db:seed": "ts-node prisma/seed.ts",
+    "db:studio": "prisma studio"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@prisma/client": "^5.6.0",
+    "next-auth": "^4.24.0",
+    "@auth/prisma-adapter": "^1.0.0",
+    "bcryptjs": "^2.4.3",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "lucide-react": "^0.294.0",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.0.0",
+    "react-hook-form": "^7.48.0",
+    "@hookform/resolvers": "^3.3.0",
+    "zod": "^3.22.0",
+    "date-fns": "^2.30.0",
+    "recharts": "^2.10.0",
+    "@radix-ui/react-dialog": "^1.0.0",
+    "@radix-ui/react-dropdown-menu": "^2.0.0",
+    "@radix-ui/react-select": "^2.0.0",
+    "@radix-ui/react-toast": "^1.1.0",
+    "uploadthing": "^6.0.0",
+    "@uploadthing/react": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/bcryptjs": "^2.4.0",
+    "typescript": "^5.0.0",
+    "prisma": "^5.6.0",
+    "ts-node": "^10.9.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
