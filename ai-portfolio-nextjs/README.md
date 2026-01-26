@@ -1,12 +1,11 @@
-﻿# AI-Powered Portfolio Website
+﻿# Modern Portfolio Website
 
-A modern, responsive portfolio website built with Next.js 14, featuring an AI chatbot powered by OpenAI, stunning animations with Framer Motion, and a sleek dark theme.
+A stunning, responsive portfolio website built with Next.js 14, featuring beautiful animations with Framer Motion, and a sleek dark theme with glassmorphism design.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/1a1a2e/00d9ff?text=AI+Portfolio)
+![Portfolio Preview](https://via.placeholder.com/1200x630/1a1a2e/00d9ff?text=Portfolio+Website)
 
 ## Features
 
-- **AI Chatbot** - Interactive assistant powered by OpenAI GPT-3.5
 - **Smooth Animations** - Framer Motion powered transitions
 - **Responsive Design** - Mobile-first, works on all devices
 - **Dark Theme** - Modern glassmorphism UI
@@ -22,7 +21,6 @@ A modern, responsive portfolio website built with Next.js 14, featuring an AI ch
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
-- **AI**: OpenAI API
 - **Icons**: Lucide React
 
 ## Getting Started
@@ -31,7 +29,6 @@ A modern, responsive portfolio website built with Next.js 14, featuring an AI ch
 
 - Node.js 18+ 
 - npm or yarn
-- OpenAI API key (optional, for chatbot)
 
 ### Installation
 
@@ -42,10 +39,6 @@ cd EHTISHAM-AI-ENTHUSIAST/ai-portfolio-nextjs
 
 # Install dependencies
 npm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Add your OPENAI_API_KEY to .env.local
 
 # Run development server
 npm run dev
