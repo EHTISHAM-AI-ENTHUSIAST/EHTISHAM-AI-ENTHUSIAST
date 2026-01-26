@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "realtime-chat-app",
   "version": "1.0.0",
   "description": "Real-time chat application with Next.js, Socket.IO, and Prisma",
