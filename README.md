@@ -37,7 +37,7 @@ I don't just write code—I visualize the entire product lifecycle, building sol
 - 🏆 **50+ Projects** delivered successfully
 - ⏱️ **3+ Years** of professional experience
 - 💯 **100%** acceptance rate
-- 💰 **$30/hr** competitive rate
+- 💰 **$competitive rate** 
 
 </td>
 </tr>
