@@ -50,8 +50,8 @@ document-vision-ai/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EhtishamProAI/document-vision-ai.git
-cd document-vision-ai
+git clone https://github.com/EHTISHAM-AI-ENTHUSIAST/EHTISHAM-AI-ENTHUSIAST.git
+cd EHTISHAM-AI-ENTHUSIAST/document-vision-ai
 
 # Create virtual environment
 python -m venv venv
@@ -115,5 +115,6 @@ results = extractor.batch_extract("documents/", output_excel="results.xlsx")
 **Ehtisham Ashraf**  
 Senior AI Software Engineer | AI & Automation Specialist
 
-- GitHub: [@EhtishamProAI](https://github.com/EhtishamProAI)
+- GitHub: [@EHTISHAM-AI-ENTHUSIAST](https://github.com/EHTISHAM-AI-ENTHUSIAST)
+- LinkedIn: [Ehtisham Ashraf](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
 - Email: kingehtsham0@gmail.com

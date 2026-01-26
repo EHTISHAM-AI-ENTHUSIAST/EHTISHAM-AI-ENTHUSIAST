@@ -45,8 +45,8 @@ lead-scraper-dashboard/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EhtishamProAI/lead-scraper-dashboard.git
-cd lead-scraper-dashboard
+git clone https://github.com/EHTISHAM-AI-ENTHUSIAST/EHTISHAM-AI-ENTHUSIAST.git
+cd EHTISHAM-AI-ENTHUSIAST/lead-scraper-dashboard
 
 # Create virtual environment
 python -m venv venv
@@ -74,5 +74,6 @@ This tool is for educational purposes only. Always respect website terms of serv
 **Ehtisham Ashraf**  
 Senior AI Software Engineer | Automation Specialist
 
-- GitHub: [@EhtishamProAI](https://github.com/EhtishamProAI)
+- GitHub: [@EHTISHAM-AI-ENTHUSIAST](https://github.com/EHTISHAM-AI-ENTHUSIAST)
+- LinkedIn: [Ehtisham Ashraf](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
 - Email: kingehtsham0@gmail.com

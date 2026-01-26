@@ -60,8 +60,8 @@ ecommerce-api/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EhtishamProAI/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/EHTISHAM-AI-ENTHUSIAST/EHTISHAM-AI-ENTHUSIAST.git
+cd EHTISHAM-AI-ENTHUSIAST/ecommerce-api
 
 # Create virtual environment
 python -m venv venv
@@ -109,5 +109,6 @@ Once running, visit:
 **Ehtisham Ashraf**  
 Senior AI Software Engineer | Full-Stack Developer
 
-- GitHub: [@EhtishamProAI](https://github.com/EhtishamProAI)
+- GitHub: [@EHTISHAM-AI-ENTHUSIAST](https://github.com/EHTISHAM-AI-ENTHUSIAST)
+- LinkedIn: [Ehtisham Ashraf](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
 - Email: kingehtsham0@gmail.com

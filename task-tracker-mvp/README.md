@@ -98,5 +98,6 @@ Open http://localhost:3000 in your browser.
 **Ehtisham Ashraf**  
 Senior AI Software Engineer | Full-Stack Developer
 
-- GitHub: [@EhtishamProAI](https://github.com/EhtishamProAI)
+- GitHub: [@EHTISHAM-AI-ENTHUSIAST](https://github.com/EHTISHAM-AI-ENTHUSIAST)
+- LinkedIn: [Ehtisham Ashraf](https://www.linkedin.com/in/ehtisham-ashraf-b9b220395)
 - Email: kingehtsham0@gmail.com
