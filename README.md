@@ -96,6 +96,28 @@
 
 ---
 
+## 🌐 My Live Portfolio
+
+<div align="center">
+
+[![Portfolio Website](https://img.shields.io/badge/🚀_Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://ehtisham-developer.netlify.app/)
+
+</div>
+
+<div align="center">
+
+<img src="./ehtisham-website.png" width="100%" alt="Ehtisham Developer Portfolio" />
+
+<br/>
+
+**🎨 AI-Powered Portfolio** | **💼 Full-Stack Showcase** | **🚀 Live & Interactive**
+
+*Explore my work, projects, and services at my live portfolio website!*
+
+</div>
+
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
