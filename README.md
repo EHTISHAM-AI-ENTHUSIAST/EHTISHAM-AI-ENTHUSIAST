@@ -107,86 +107,28 @@
 
 ### 🤖 AI & Automation Suite
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** Anti-detection • GitHub Actions • Docker Ready
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** GPT-4 Vision • Invoice Parser • JSON Export
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** Stealth Mode • Streamlit Dashboard • CSV Export
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+| Project                                                                                       | Description                                                                              | Tech Stack                                                                                                                                                                                                                                                                                                                    |
+| :-------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[🔗 LinkedIn Scraper Bot](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)** | Production-ready scraper with anti-detection, GitHub Actions automation & Docker support | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)      |
+| **[👁️ DocVision AI](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)**                 | AI document extraction using GPT-4 Vision for invoices, receipts & forms                 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)             |
+| **[📊 Lead Scraper Pro](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)**         | Google Maps scraper with stealth mode & real-time Streamlit dashboard                    | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 
 <br/>
 
 ### 💻 Full-Stack Applications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** Drag & Drop • JWT Auth • Priority Levels
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** REST API • Swagger Docs • PostgreSQL
-
-</td>
-</tr>
-</table>
+| Project                                                                              | Description                                                                  | Tech Stack                                                                                                                                                                                                                                                                                                                    |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[✅ TaskFlow App](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)**        | Full-stack task management with drag-drop Kanban, JWT auth & priority levels | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)    |
+| **[🛒 E-Commerce API](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)** | Production REST API with JWT, cart management & Swagger documentation        | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 <br/>
 
 ### 🎨 UI/UX & Frontend
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
-</a>
-
-**🎯 Key Features:** Glassmorphism • Dark Mode • Framer Motion
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+| Project                                                                                    | Description                                                                | Tech Stack                                                                                                                                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[🚀 SaaS Landing Page](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)** | Modern landing with glassmorphism UI, dark mode & Framer Motion animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 <div align="center">
 
