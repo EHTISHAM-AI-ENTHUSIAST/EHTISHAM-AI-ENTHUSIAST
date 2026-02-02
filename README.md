@@ -99,84 +99,102 @@
 
 <div align="center">
 
-_Click on any project to explore the code!_
+[![](https://img.shields.io/badge/🔥_PRODUCTION_READY_SOLUTIONS-1a1b27?style=for-the-badge)](#)
 
 </div>
 
+<br/>
+
+### 🤖 AI & Automation Suite
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [LinkedIn Scraper Bot](https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot)
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Linkedin-Scraper-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Linkedin-Scraper-Bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
 
-<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square"/>
-
-Production-ready LinkedIn profile scraper with **anti-detection**, GitHub Actions automation, Docker support, and professional documentation.
-
-`Python` `Docker` `GitHub Actions` `Selenium`
+**🎯 Key Features:** Anti-detection • GitHub Actions • Docker Ready
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 [Document Vision AI](https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai)
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Docvision-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Docvision-ai&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
 
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
-
-AI-powered document extraction using **GPT-4 Vision** for automated processing of invoices, receipts, forms, and contracts.
-
-`Python` `OpenAI` `FastAPI` `Tesseract`
+**🎯 Key Features:** GPT-4 Vision • Invoice Parser • JSON Export
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✅ [TaskFlow App](https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app)
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Lead-scraper-pro&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
 
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
-
-Full-stack task management with **drag-and-drop** Kanban board, JWT authentication, priority levels, and due date tracking.
-
-`React` `FastAPI` `PostgreSQL` `JWT`
+**🎯 Key Features:** Stealth Mode • Streamlit Dashboard • CSV Export
 
 </td>
-<td width="50%">
-
-### 🔍 [Lead Scraper Pro](https://github.com/EHTISHAM-AI-ENTHUSIAST/Lead-scraper-pro)
-
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
-
-Intelligent Google Maps scraper with **stealth mode**, real-time Streamlit dashboard, email extraction, and export capabilities.
-
-`Python` `Streamlit` `Selenium` `Pandas`
-
-</td>
+<td width="50%"></td>
 </tr>
+</table>
+
+<br/>
+
+### 💻 Full-Stack Applications
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 [E-Commerce FastAPI](https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi)
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Taskflow-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Taskflow-app&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
 
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
-
-Production-ready REST API with **JWT authentication**, product catalog, shopping cart, order management, and Swagger docs.
-
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+**🎯 Key Features:** Drag & Drop • JWT Auth • Priority Levels
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 [SaaS Starter Landing](https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing)
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Ecommerce-fastapi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Ecommerce-fastapi&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
 
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
-
-High-conversion landing page with modern **glassmorphism UI**, dark mode, smooth Framer Motion animations, and fully responsive.
-
-`React` `Vite` `Tailwind CSS` `Framer Motion`
+**🎯 Key Features:** REST API • Swagger Docs • PostgreSQL
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 🎨 UI/UX & Frontend
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/EHTISHAM-AI-ENTHUSIAST/Saas-Starter-Landing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EHTISHAM-AI-ENTHUSIAST&repo=Saas-Starter-Landing&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B" width="100%"/>
+</a>
+
+**🎯 Key Features:** Glassmorphism • Dark Mode • Framer Motion
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+[![View All Repositories](https://img.shields.io/badge/📂_View_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHTISHAM-AI-ENTHUSIAST?tab=repositories)
+
+</div>
 
 ---
 
