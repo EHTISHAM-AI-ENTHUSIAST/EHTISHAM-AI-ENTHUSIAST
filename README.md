@@ -10,12 +10,6 @@
 
 **🎯 You won't find this quality-to-price ratio anywhere else!**
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EHTISHAM-AI-ENTHUSIAST&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-[![GitHub followers](https://img.shields.io/github/followers/EHTISHAM-AI-ENTHUSIAST?style=for-the-badge&color=00d9ff&labelColor=1a1b27)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-[![GitHub Stars](https://img.shields.io/github/stars/EHTISHAM-AI-ENTHUSIAST?style=for-the-badge&color=00d9ff&labelColor=1a1b27)](https://github.com/EHTISHAM-AI-ENTHUSIAST)
-
 </div>
 
 ---
@@ -240,4 +234,8 @@ _I typically respond within 2-4 hours during business hours_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
+</div>
+
+<div align="right">
+<sub>👀 <img src="https://komarev.com/ghpvc/?username=EHTISHAM-AI-ENTHUSIAST&color=grey&style=flat&label=" height="14"/></sub>
 </div>
