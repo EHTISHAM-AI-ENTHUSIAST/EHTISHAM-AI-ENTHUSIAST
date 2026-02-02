@@ -133,9 +133,9 @@
 ### 🤖 [AI Portfolio Website](./ai-portfolio-nextjs)
 <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
 
-Modern portfolio featuring an **AI-powered chatbot** using OpenAI, stunning Framer Motion animations, glassmorphism design, and dark/light themes.
+Modern portfolio featuring stunning Framer Motion animations, glassmorphism design, dark/light themes, and responsive layout. Perfect showcase for developers.
 
-`Next.js 14` `TypeScript` `OpenAI` `Framer Motion` `Tailwind`
+`Next.js 14` `TypeScript` `Framer Motion` `Tailwind` `React`
 
 </td>
 <td width="50%">
