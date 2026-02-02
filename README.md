@@ -65,25 +65,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EHTISHAM-AI-ENTHUSIAST&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="170" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHTISHAM-AI-ENTHUSIAST&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="170" alt="languages graph"  />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EHTISHAM-AI-ENTHUSIAST&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EHTISHAM-AI-ENTHUSIAST&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -115,28 +96,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 🌐 My Live Portfolio
-
-<div align="center">
-
-[![Portfolio Website](https://img.shields.io/badge/🚀_Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://ehtisham-developer.netlify.app/)
-
-</div>
-
-<div align="center">
-
-<img src="./ehtisham-website.png" width="100%" alt="Ehtisham Developer Portfolio" />
-
-<br/>
-
-**🎨 AI-Powered Portfolio** | **💼 Full-Stack Showcase** | **🚀 Live & Interactive**
-
-_Explore my work, projects, and services at my live portfolio website!_
 
 </div>
 
