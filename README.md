@@ -45,7 +45,6 @@
 
 | Metric                 | Value      |
 | ---------------------- | ---------- |
-| 🏆 Projects Delivered  | **50+**    |
 | ⏱️ Years Experience    | **3+**     |
 | ⭐ Client Satisfaction | **100%**   |
 | 🌍 Clients Worldwide   | **Global** |
